@@ -18,7 +18,7 @@ This repository contains implementations and examples of using Hugging Face tran
 To get started, clone the repository and install the necessary dependencies:
 
 ```bash
-git clone https://github.com/krishnaik06/Huggingfacetransformer.git
+git clone https://github.com/amarpreet3/Huggingfacetransformer.git
 cd Huggingfacetransformer
 pip install -r requirements.txt
 ```
